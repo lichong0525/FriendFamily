@@ -1,0 +1,3 @@
+# FriendFamily
+朋友圈全家福生成器
+## python编写，持续更新中……
