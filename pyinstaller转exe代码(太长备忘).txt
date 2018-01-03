@@ -1,0 +1,1 @@
+pyinstaller -F friendsfamily.py -p D:\Python35-32;D:\Python35-32\Lib;D:\Python35-32\Lib\site-packages; --hidden-import=queue --hidden-import=urllib3 -i D:\0×ÀÃæÎÄµµ\1.ico
